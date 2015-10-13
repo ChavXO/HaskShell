@@ -1,4 +1,4 @@
-module Shelby where
+module HaskShell where
 
 import System.Environment
 import System.Process hiding (runCommand)
